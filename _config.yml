@@ -1,7 +1,7 @@
 # Site settings
 title: XMU-IMT's Blog
 SEOTitle: XMU-IMT的博客 | XMU-IMT's Blog
-header-img: img/home-bg.jpg
+header-img: img/home-bg-o.jpg
 email: lancerlian@126.com
 description: "一个分享知识的平台，欢迎交流"
 keyword: "MachineLearning， BookReading"
@@ -12,7 +12,7 @@ url: "http://xmu-imt.github.io"              # your host, for absolute URL
 
 # SNS settings
 RSS: false
-#weibo_username:     LancerLian	
+weibo_username:     LancerLian	
 #zhihu_username:     LancerLian
 github_username:    xmu-imt
 #twitter_username:  
@@ -68,8 +68,8 @@ ba_track_id:  ffc7321b23d456caae591b358c608877
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我的小博客"
-sidebar-avatar: /img/404-bg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "2016.12.2 Bookreading: PRML ch03 by邓海林 "
+sidebar-avatar: /img/xmu-logo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
