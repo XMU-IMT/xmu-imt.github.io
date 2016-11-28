@@ -98,6 +98,7 @@
 98	Author [@ghosert][3]     Collected by [Lancer](LancerLian.github.io)
 99	2016 年 07月 07日    
 100	
+
 101	[^LaTeX]: 支持 **LaTeX** 编辑显示支持，例如：$\sum_{i=1}^n a_i=0$， 访问 [MathJax][4] 参考更多使用方法。
 102	
 103	[^code]: 代码高亮功能支持包括 Java, Python, JavaScript 在内的，**四十一**种主流编程语言。
