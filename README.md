@@ -1,9 +1,4 @@
-# HuxBlog Boilerplate
+# XMU IMT Lab’ blog
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
-
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
-
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+##### This is the MachineLearning BookReading blog of [XMU IMT Lab](http://imt.xmu.edu.cn) , create & maintained by [LancerLian](https://lancerlian.github.io) . Advices and discussions are welcomed. Feel free to contact me via 
+[lancerlian@126.com](lancerlian@126.com).
