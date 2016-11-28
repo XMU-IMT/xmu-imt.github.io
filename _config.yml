@@ -83,10 +83,13 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "LancerLian Blog",
-        href: "https://lancerlian.github.io"
-    },{
         title: "XMU",
         href: "http://xmu.edu.cn"
+    },{
+        title: "Lancer's Blog",
+        href: "https://lancerlian.github.io"
+    },{
+    	title: "Lancer's weibo",
+	href: "http://weibo.com/lancer123"
     }
 ]
