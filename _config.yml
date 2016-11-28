@@ -68,7 +68,8 @@ ba_track_id:  ffc7321b23d456caae591b358c608877
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "2016.12.2 Bookreading: PRML ch03 by邓海林 "
+sidebar-about-description: "通知：
+		week2: 2016.12.2 Bookreading: PRML ch03, 报告人：邓海林 "
 sidebar-avatar: /img/xmu-logo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
