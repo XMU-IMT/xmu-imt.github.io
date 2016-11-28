@@ -3,7 +3,7 @@ layout:     post
 title:      "小教程和一些唠叨"
 subtitle:   "这里是副标题"
 date:       2016-11-28
-author:     "LancerLian"
+author:     "连盛 | LancerLian"
 header-img: "img/home-bg-o.jpg"
 tags:
     - markdown
