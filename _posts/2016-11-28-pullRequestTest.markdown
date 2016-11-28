@@ -6,8 +6,8 @@ date:       2016-11-28
 author:     "连盛 | LancerLian"
 header-img: "http://img2.imgtn.bdimg.com/it/u=2812104643,902679823&fm=21&gp=0.jpg"
 tags:
-	- markdown
-	- 教程
+    - markdown
+    - 教程
 ---
 	
 ### 1. 制作一份待办事宜 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
