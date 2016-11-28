@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "小教程和一些唠叨"
-subtitle:   "这里是副标题"
+subtitle:   "咱把Markdown用起来吧！"
 date:       2016-11-28
 author:     "连盛 | LancerLian"
 header-img: "img/home-bg-o.jpg"
@@ -19,7 +19,7 @@ tags:
 可能大家已经对github都比较了解了，大家可以登录自己的帐号，找到我们的项目地址，对该项目进行修改（如果能先star一下最好了）。初步我们的博客还在
 修改完善，以后博客成熟了，修改功能就主要用来提交大家的机器学习博文了。在该项目中，博文放在 **_post** 目录下，大家可以提交markdown, html页面。
 
-有关markdown的信息见附录。markdown上手很快，支持表格，图片，Latex公式等等(*试了一下，发现博客里表格和流程图显示有错误，不解，不知道大家有没什么办法，暂时可以先贴图，使用在线图床*)，可以非常美观。推荐[教程1:马克飞象](https://maxiang.io/),[教程2](http://www.jianshu.com/p/7bd23251da0a),
+有关markdown的信息见附录。markdown上手很快，支持表格，图片，Latex公式等等(*试了一下，发现博客里表格和流程图显示有错误，不解，不知道大家有没什么办法，暂时可以先贴图，使用在线图床*)，可以非常美观。对了，markdown也有本地工具，`markdown Pad`之类的。推荐[教程1:马克飞象](https://maxiang.io/),[教程2](http://www.jianshu.com/p/7bd23251da0a),
 [在线编辑1](https://maxiang.io/),[在线编辑2](https://www.zybuluo.com/mdeditor)等等。
 
 > **注：** 这里推荐使用markdown,简单易用，上手很快。
