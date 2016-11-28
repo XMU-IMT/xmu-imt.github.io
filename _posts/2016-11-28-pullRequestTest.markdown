@@ -6,7 +6,7 @@ date:       2016-11-28
 author:     "连盛 | LancerLian"
 header-img: "http://img2.imgtn.bdimg.com/it/u=2812104643,902679823&fm=21&gp=0.jpg"
 tags:
-    - markdown
+    - pullrequest
     - 教程
 ---
 	
