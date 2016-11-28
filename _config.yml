@@ -12,7 +12,7 @@ url: "http://xmu-imt.github.io"              # your host, for absolute URL
 
 # SNS settings
 RSS: false
-weibo_username:     LancerLian	
+weibo_username:     lancer123	
 #zhihu_username:     LancerLian
 github_username:    xmu-imt
 #twitter_username:  
@@ -88,14 +88,5 @@ friends: [
     },{
         title: "XMU",
         href: "http://xmu.edu.cn"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
     }
 ]
