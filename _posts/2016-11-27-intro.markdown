@@ -11,8 +11,8 @@ tags:
 ---
 
 首先恭喜咱实验室的机器学习bookreading讨论组成立啦！师姐将建立博客这个重任交给了我，我花了几天尝试了好几种博客和方法，最终选择了github,
-并用了[Huxpro](https://github.com/Huxpro)提供的模板来建立这个博客，方便我们小组的老师和同学交流讨论。以下是一些小教程吧。没啥时间，
-简单说几句。
+并用了[Huxpro](https://github.com/Huxpro)提供的模板来建立这个博客，方便我们小组的老师和同学交流讨论。`特别加入了分享和评论功能哟！大家可以测试一下。`
+以下是一些小教程吧。没啥时间，简单说几句。
 
 我们的博客主页是 [xmu-imt.github.io](https://xmu-imt.github.io), 相当好记吧。博客在github上的项目地址[戳我戳我](https://github.com/XMU-IMT/xmu-imt.github.io) 。
 
