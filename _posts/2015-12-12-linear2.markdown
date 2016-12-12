@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Linear Models for classification "
+subtitle:   "Week 3 presented by Chengji Wang(王成济)"
+date:       2016-12-12
+author:     "连盛 | LancerLian"
+header-img: "img/ai2_back.jpg"
+tags:
+    - ppt
+    
+---
+
+第三周的book reading 主讲人是**王成济**，汇报主题大致如下：
+
+- **判别函数**
+- **概率生成模型**
+- **概率判别模型**
+
+
+演讲ppt的百度网盘链接地址为：[xmu-imt](http://pan.baidu.com/s/1o8GtNdS), 密码：*aa92*,若超链无效，亦可将以下地址拷入浏览器进行访问。（*链接: http://pan.baidu.com/s/1o8GtNdS 密码: aa92*）
+
+Slides are available on Baidu Netdisk [here](http://pan.baidu.com/s/1o8GtNdS), the download key is *aa92*. 
