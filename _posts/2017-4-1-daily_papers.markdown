@@ -7,8 +7,7 @@ author:     "LancerLian"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 学术
-    
-    - 论文
+
 ---
 
 # 日常文献 mark down~
