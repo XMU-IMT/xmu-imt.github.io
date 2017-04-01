@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "日常文献 mark down~"
+title:      "daily papers mark down~"
 subtitle:   " \"一系列文章的小结,不断更新中\""
 date:       2017-4-1 12:00:00
 author:     "LancerLian"
@@ -26,7 +26,6 @@ tags:
 - [ ***【2017.04.01】***  ▒▒ **SeGAN**: Segmenting and Generating the Invisible, Ehsani et al]( #SeGAN )
 
 
-<br /> <br /> <br /> <br /> <br /> <br /> 
 
 
 
