@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "daily papers mark down~"
+title:      "日常文章 mark down~"
 subtitle:   " \"一系列文章的小结,不断更新中\""
 date:       2017-4-1 12:00:00
 author:     "LancerLian"
@@ -21,11 +21,10 @@ tags:
 
 ## 文章列表
 
-- [ ***【2017.03.23】***  ▒▒ **CoGAN**: Coupled generative adversarial networks， Ming-Yu Liu et al]( #CoGAN ) 
+[ ***【2017.03.23】***  ▒▒ **CoGAN**: Coupled generative adversarial networks， Ming-Yu Liu et al]( #CoGAN ) 
 
-- [ ***【2017.04.01】***  ▒▒ **SeGAN**: Segmenting and Generating the Invisible, Ehsani et al]( #SeGAN )
+[ ***【2017.04.01】***  ▒▒ **SeGAN**: Segmenting and Generating the Invisible, Ehsani et al]( #SeGAN )
 
-- a
 
 
 <br /> <br /> <br /> <br /> <br /> <br /> 
