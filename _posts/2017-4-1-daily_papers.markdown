@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      " 日常文献笔记 mark down~ "
+title:      " 日常文献笔记 "
 subtitle:   " \"一系列文章的小结,不断更新中\""
 date:       2017-4-1 12:00:00
 author:     "LancerLian"
