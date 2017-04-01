@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "日常文章 mark down~"
+title:      "日常文献 mark down~"
 subtitle:   " \"一系列文章的小结,不断更新中\""
 date:       2017-4-1 12:00:00
 author:     "LancerLian"
@@ -21,9 +21,9 @@ tags:
 
 ## 文章列表
 
-[ ***【2017.03.23】***  ▒▒ **CoGAN**: Coupled generative adversarial networks， Ming-Yu Liu et al]( #CoGAN ) 
+- [ ***【2017.03.23】***  ▒▒ **CoGAN**: Coupled generative adversarial networks， Ming-Yu Liu et al]( #CoGAN ) 
 
-[ ***【2017.04.01】***  ▒▒ **SeGAN**: Segmenting and Generating the Invisible, Ehsani et al]( #SeGAN )
+- [ ***【2017.04.01】***  ▒▒ **SeGAN**: Segmenting and Generating the Invisible, Ehsani et al]( #SeGAN )
 
 
 
@@ -31,13 +31,15 @@ tags:
 
 
 
+------------------------------------------------------------------------------------------
 
 
 
+<div id="CoGAN"> </div>
 
-<div id="CoGAN">
+## ***【2017.03.23】*** ▒▒  **CoGAN**
 
-## ***【2017.03.23】*** ▒▒  **CoGAN**: Coupled generative adversarial networks
+### CoGAN: Coupled generative adversarial networks
 
 这篇文章是NIPS 2016中涌现出来的众多GAN的模型改进和应用文章中的一篇。这篇文章吸引我的地方在于效果不错，而且跨域样本生成也蛮有意义的。文章链接： [arxiv](https://arxiv.org/abs/1606.07536),
 
@@ -89,11 +91,12 @@ P.S. ： 这篇文章的代码开源了。链接如下： [caffe版本](https://
 
 <br /> <br /> <br /> <br /> <br /> <br /> 
 
----------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 
-<div id="SeGAN">
-## ***【2017.4.1】*** ▒▒  **SeGAN**: Segmenting and Generating the Invisible
+<div id="SeGAN">  </div>
+## ***【2017.4.1】*** ▒▒  **SeGAN**
+### SeGAN: Segmenting and Generating the Invisible
 
 文章链接： [arxiv](https://arxiv.org/abs/1703.10239)
 
